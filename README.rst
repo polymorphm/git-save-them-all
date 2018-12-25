@@ -26,7 +26,7 @@ The utility can make an additional level of safety besides ``git reflog``.
 Version
 -------
 
-Development version.
+v1.0.0 .
 
 The Example Of Using
 --------------------
